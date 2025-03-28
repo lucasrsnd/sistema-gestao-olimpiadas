@@ -19,14 +19,20 @@ e controle de resultados.
 | UC5  | Como administrador do sistema quero gerar relatórios de medalhas para que seja possível acompanhar o desempenho de cada país com base nas medalhas conquistadas. |
 
 ## Diagrama de Caso de Uso
+![Diagrama de Caso de Uso](diagrama-de-caso-de-uso.png)
 
 ## Diagrama de Classes
+![Diagrama de Classes](diagrama-de-classes.png)
 
 ## Diagrama de Pacotes
+![Diagrama de Pacotes](diagrama-de-pacotes.png)
 
 ## Diagrama de Componentes
+![Diagrama de Componentes](diagrama-de-componentes.png)
 
 ## Diagrama de Implantação
+![Diagrama de Implantacao](diagrama-de-implantacao.png)
 
 ## Ferramentas
-Para o diagrama de caso de uso e diagrama de classes, foi utilizado o draw.io. E para o diagrama de pacotes, componentes e implantação, foi utilizado o plantUML.
+Para o diagrama de caso de uso e diagrama de classes, foi utilizado o [draw.io](https://www.diagrams.net/).  
+E para o diagrama de pacotes, componentes e implantação, foi utilizado o [PlantUML](https://plantuml.com/).
