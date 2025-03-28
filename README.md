@@ -10,6 +10,13 @@ gerenciamento de competições, inscrições de atletas, alocação de locais pa
 e controle de resultados.
 
 ## Histórias de Usuário
+| ID  | História de Usuário |
+|----|--------------------|
+| UC1  | Como administrador do sistema quero cadastrar uma nova competição para que seja possível organizar as provas com nome, modalidade, data, horário, local e lista de atletas inscritos. |
+| UC2  | Como atleta quero me inscrever em competições específicas para que eu possa participar do evento representando meu país. |
+| UC3  | Como administrador do sistema quero alocar locais para as competições para que não haja conflitos de horário e cada competição tenha um local adequado. |
+| UC4  | Como administrador do sistema quero registrar os resultados das competições para que o sistema determine os vencedores e os classificados em segundo e terceiro lugares. |
+| UC5  | Como administrador do sistema quero gerar relatórios de medalhas para que seja possível acompanhar o desempenho de cada país com base nas medalhas conquistadas. |
 
 ## Diagrama de Caso de Uso
 
