@@ -34,5 +34,5 @@ e controle de resultados.
 ![Diagrama de Implantacao](diagrama-de-implantacao.png)
 
 ## Ferramentas
-Para o diagrama de caso de uso e diagrama de classes, foi utilizado o [draw.io](https://www.diagrams.net/).  
-E para o diagrama de pacotes, componentes e implantação, foi utilizado o [PlantUML](https://plantuml.com/).
+Para o diagrama de caso de uso, classes e componentes foi utilizado o [draw.io](https://www.diagrams.net/).  
+E para o diagrama de pacotes e implantação, foi utilizado o [PlantUML](https://plantuml.com/).
